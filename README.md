@@ -1,6 +1,6 @@
 # SAO-Danmaku-Game
 
-計算機程式設計一 Final Project
+大一計算機程式設計一 Final Project
 
 ## 簡介
 用 C 語言與 Allegro 5 library 製作的彈幕遊戲。
